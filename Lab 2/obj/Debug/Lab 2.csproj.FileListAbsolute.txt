@@ -1,0 +1,81 @@
+E:\С# training\ООП\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+E:\С# training\ООП\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+E:\С# training\ООП\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\MainWindow.g.cs
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\App.g.cs
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2_MarkupCompile.cache
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2_MarkupCompile.lref
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\MainWindow.baml
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2.g.resources
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\NewPage.g.cs
+E:\С# training\ООП\Lab 2\Lab 2\obj\Debug\NewPage.baml
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\MainWindow.g.cs
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\NewPage.g.cs
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\App.g.cs
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2_MarkupCompile.cache
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2_MarkupCompile.lref
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\MainWindow.baml
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\NewPage.baml
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2.g.resources
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+E:\С# training\ООП\Нова папка\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+D:\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+D:\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+D:\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+D:\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+D:\Lab 2\Lab 2\obj\Debug\MainWindow.g.cs
+D:\Lab 2\Lab 2\obj\Debug\NewPage.g.cs
+D:\Lab 2\Lab 2\obj\Debug\App.g.cs
+D:\Lab 2\Lab 2\obj\Debug\Lab 2_MarkupCompile.cache
+D:\Lab 2\Lab 2\obj\Debug\Lab 2_MarkupCompile.lref
+D:\Lab 2\Lab 2\obj\Debug\MainWindow.baml
+D:\Lab 2\Lab 2\obj\Debug\NewPage.baml
+D:\Lab 2\Lab 2\obj\Debug\Lab 2.g.resources
+D:\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+D:\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+D:\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+D:\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+D:\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+D:\Lab 2 – копія\Lab 2\bin\Debug\Lab 2.exe.config
+D:\Lab 2 – копія\Lab 2\bin\Debug\Lab 2.exe
+D:\Lab 2 – копія\Lab 2\bin\Debug\Lab 2.pdb
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+D:\Lab 2 – копія\Lab 2\obj\Debug\MainWindow.g.cs
+D:\Lab 2 – копія\Lab 2\obj\Debug\App.g.cs
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2_MarkupCompile.cache
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2_MarkupCompile.lref
+D:\Lab 2 – копія\Lab 2\obj\Debug\MainWindow.baml
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2.g.resources
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2.exe
+D:\Lab 2 – копія\Lab 2\obj\Debug\Lab 2.pdb
+D:\Lab 2.ver3\Lab 2\bin\Debug\Lab 2.exe.config
+D:\Lab 2.ver3\Lab 2\bin\Debug\Lab 2.exe
+D:\Lab 2.ver3\Lab 2\bin\Debug\Lab 2.pdb
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+D:\Lab 2.ver3\Lab 2\obj\Debug\MainWindow.g.cs
+D:\Lab 2.ver3\Lab 2\obj\Debug\App.g.cs
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2_MarkupCompile.cache
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2_MarkupCompile.lref
+D:\Lab 2.ver3\Lab 2\obj\Debug\MainWindow.baml
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2.g.resources
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2.exe
+D:\Lab 2.ver3\Lab 2\obj\Debug\Lab 2.pdb
